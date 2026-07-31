@@ -1,12 +1,11 @@
 # Juan Sanchez
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sanchez-b7b276348/)
-[![Email](https://img.shields.io/badge/Email-juan.sanchez620%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:juan.sanchez620@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sanchez-b7b276348/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:juan.sanchez620@outlook.com)
 [![AlgoBuddy Live Demo](https://img.shields.io/badge/AlgoBuddy-WebAssembly_Demo-22c55e?style=for-the-badge&logo=webassembly&logoColor=white)](https://rowrow620.github.io/AlgoBuddy/)
 
-Software & Systems Engineer | M.S. Computer Science Candidate at California State University, Chico.  
-Focus areas include Systems Engineering, Computer Vision, Distributed Systems, and Open-Source Infrastructure.
-
+Software Engineer & M.S. Computer Science Candidate at California State University, Chico.  
+Specializing in Rust, WebAssembly, Algorithmic Visualization Tools, and High-Performance Developer Infrastructure.
 ---
 
 ## Technical Stack & Tooling
@@ -14,6 +13,7 @@ Focus areas include Systems Engineering, Computer Vision, Distributed Systems, a
 ### Languages
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -22,6 +22,7 @@ Focus areas include Systems Engineering, Computer Vision, Distributed Systems, a
 
 ### Frameworks & Systems
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -32,18 +33,18 @@ Focus areas include Systems Engineering, Computer Vision, Distributed Systems, a
 
 ---
 
-## Featured Open Source Projects
+## Featured Projects
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **AlgoBuddy** | Interactive algorithm visualization engine mapping 150+ NeetCode problems with real-time memory tracking. | `Rust` `WebAssembly` `egui` `CI/CD` | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rowrow620/AlgoBuddy) |
+| **AlgoBuddy** | Open-source interactive algorithm visualizer mapping 150+ NeetCode problems with real-time memory tracking. | `Rust` `WebAssembly` `egui` `CI/CD` | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rowrow620/AlgoBuddy) |
 | **Sensor Fusion Engine** | Two-stage computer vision target classification pipeline combining SGBM spatial geometry preprocessing with CNNs. | `C++` `PyTorch` `OpenCV` | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rowrow620/multi-camera-sensor-fusion-engine) |
+| **Distributed Computing Cluster** | Microservice cluster refactored with socket-layer communication and event-driven architecture, reducing latency by 30%. | `Go` `Docker` `Kafka` `RabbitMQ` | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rowrow620) |
+| **Lobotomy Corp Game Mods** | C# modding suite manipulating Unity game loop speeds and resource allocation via Harmony IL bytecode patching. | `C#` `.NET` `Unity` `Harmony` | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rowrow620) |
 
 ---
 
 ## Activity & Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rowrow620&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rowrow620&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+![Juan's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rowrow620&show_icons=true&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rowrow620&layout=compact&theme=dark&hide_border=true)
