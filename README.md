@@ -3,19 +3,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sanchez-b7b276348/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:juan.sanchez620@outlook.com)
 [![AlgoBuddy Live Demo](https://img.shields.io/badge/AlgoBuddy-WebAssembly_Demo-22c55e?style=for-the-badge&logo=webassembly&logoColor=white)](https://rowrow620.github.io/AlgoBuddy/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rowrow620&color=blueviolet&style=for-the-badge)](https://github.com/Rowrow620)
 
 Software Engineer & M.S. Computer Science Candidate at California State University, Chico.  
 Specializing in Rust, WebAssembly, Algorithmic Visualization Tools, and High-Performance Developer Infrastructure.
+
 ---
 
 ## Technical Stack & Tooling
 
 ### Languages
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -40,4 +42,3 @@ Specializing in Rust, WebAssembly, Algorithmic Visualization Tools, and High-Per
 | **AlgoBuddy** | Open-source interactive algorithm visualizer mapping 150+ NeetCode problems with real-time memory tracking. | `Rust` `WebAssembly` `egui` `CI/CD` | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rowrow620/AlgoBuddy) |
 | **Sensor Fusion Engine** | Two-stage computer vision target classification pipeline combining SGBM spatial geometry preprocessing with CNNs. | `C++` `PyTorch` `OpenCV` | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rowrow620/multi-camera-sensor-fusion-engine) |
 | **Lobotomy Corp Game Mods** | C# modding suite manipulating Unity game loop speeds and resource allocation via Harmony IL bytecode patching. | `C#` `.NET` `Unity` `Harmony` | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rowrow620) |
-
