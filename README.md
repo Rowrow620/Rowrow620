@@ -39,7 +39,6 @@ Specializing in Rust, WebAssembly, Algorithmic Visualization Tools, and High-Per
 | :--- | :--- | :--- | :--- |
 | **AlgoBuddy** | Open-source interactive algorithm visualizer mapping 150+ NeetCode problems with real-time memory tracking. | `Rust` `WebAssembly` `egui` `CI/CD` | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rowrow620/AlgoBuddy) |
 | **Sensor Fusion Engine** | Two-stage computer vision target classification pipeline combining SGBM spatial geometry preprocessing with CNNs. | `C++` `PyTorch` `OpenCV` | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rowrow620/multi-camera-sensor-fusion-engine) |
-| **Distributed Computing Cluster** | Microservice cluster refactored with socket-layer communication and event-driven architecture, reducing latency by 30%. | `Go` `Docker` `Kafka` `RabbitMQ` | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rowrow620) |
 | **Lobotomy Corp Game Mods** | C# modding suite manipulating Unity game loop speeds and resource allocation via Harmony IL bytecode patching. | `C#` `.NET` `Unity` `Harmony` | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rowrow620) |
 
 ---
