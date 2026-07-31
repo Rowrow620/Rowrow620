@@ -8,7 +8,6 @@
 Software Engineer & M.S. Computer Science Candidate at California State University, Chico.  
 Specializing in Rust, WebAssembly, Algorithmic Visualization Tools, and High-Performance Developer Infrastructure.
 
----
 
 ## Technical Stack & Tooling
 
