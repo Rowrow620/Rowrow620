@@ -41,9 +41,3 @@ Specializing in Rust, WebAssembly, Algorithmic Visualization Tools, and High-Per
 | **Sensor Fusion Engine** | Two-stage computer vision target classification pipeline combining SGBM spatial geometry preprocessing with CNNs. | `C++` `PyTorch` `OpenCV` | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rowrow620/multi-camera-sensor-fusion-engine) |
 | **Lobotomy Corp Game Mods** | C# modding suite manipulating Unity game loop speeds and resource allocation via Harmony IL bytecode patching. | `C#` `.NET` `Unity` `Harmony` | [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rowrow620) |
 
----
-
-## Activity & Statistics
-
-![Juan's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rowrow620&show_icons=true&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rowrow620&layout=compact&theme=dark&hide_border=true)
