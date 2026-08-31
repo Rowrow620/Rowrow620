@@ -1,4 +1,4 @@
-# Juan F. Sanchez
+# Juan Sanchez
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sanchez-b7b276348/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:juan.sanchez620@outlook.com)
